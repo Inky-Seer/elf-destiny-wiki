@@ -47,7 +47,21 @@ nav:
   - Home: index.md
   - Lore:
       - lore/index.md
+      - World History: lore/world-history.md
+      - The Divine Spark & Cosmology: lore/divine-spark-and-cosmology.md
       - The Portal Network: lore/portal-network.md
+      - Elven Ascension: lore/elven-ascension.md
+      - The Valar Pantheon: lore/valar-pantheon.md
+      - The Aeluran Religion & Order: lore/aeluran-religion-and-order.md
+      - Magic: lore/magic.md
+      - Genetics & Heredity: lore/genetics-and-traits.md
+      - Bloodlines & Dynasties: lore/bloodlines-and-dynasties.md
+      - Elven Cultures: lore/elven-cultures.md
+      - Nations & Factions: lore/nations-and-factions.md
+      - The Expedition Storyline: lore/expedition-storyline.md
+      - Dark Elves: lore/dark-elves.md
+      - Races & Creatures: lore/races-and-creatures.md
+      - Ancient History & Lost Civilizations: lore/ancient-history-and-lost-civilizations.md
   - CK3 Mod:
       - ck3/index.md
       - Expeditions: ck3/expeditions.md
