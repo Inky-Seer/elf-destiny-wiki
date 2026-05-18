@@ -10,9 +10,9 @@ This wiki has three parts:
 - **[CK3 Mod](ck3/index.md)** — gameplay mechanics for the Crusader Kings III version.
 - **[EU5 Mod](eu5/index.md)** — gameplay mechanics for the Europa Universalis V version.
 
-!!! note "Work in progress"
-    This wiki is being built. Some sections are placeholders for now — check back as
-    pages are filled in.
+!!! note "A living wiki"
+    Elf Destiny is an actively developed mod — these pages will keep growing and
+    changing alongside it.
 
 ## The mods
 
