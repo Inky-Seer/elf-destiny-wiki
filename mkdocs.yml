@@ -50,5 +50,15 @@ nav:
       - The Portal Network: lore/portal-network.md
   - CK3 Mod:
       - ck3/index.md
+      - Expeditions: ck3/expeditions.md
+      - Elf Races & Traits: ck3/elf-races-traits.md
+      - Bloodlines: ck3/bloodlines.md
+      - Government & Diarchies: ck3/government-diarchies.md
+      - Cultures & Religion: ck3/cultures-religion.md
+      - Decisions & Activities: ck3/decisions-activities.md
+      - Schemes, Hooks & Contracts: ck3/schemes-hooks-contracts.md
+      - Units & Warfare: ck3/units-warfare.md
+      - Buildings: ck3/buildings.md
+      - Story Events: ck3/story-events.md
   - EU5 Mod:
       - eu5/index.md
