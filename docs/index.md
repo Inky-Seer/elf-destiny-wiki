@@ -1,7 +1,7 @@
 # Elf Destiny Wiki
 
 Welcome to the community wiki for **Elf Destiny** — an alternative-history fantasy
-elf total-conversion mod, available for both **Crusader Kings III** and
+elf mod, available for both **Crusader Kings III** and
 **Europa Universalis V**.
 
 This wiki has three parts:
@@ -18,7 +18,6 @@ This wiki has three parts:
 
 |  | Crusader Kings III | Europa Universalis V |
 |---|---|---|
-| Role | The fuller, older mod | Newer, streamlined version |
 | Steam Workshop | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3114064450) | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3681153070) |
 
 Join the community on [Discord](https://discord.gg/fyuPcf5HFZ).
