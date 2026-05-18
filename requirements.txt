@@ -1,0 +1,2 @@
+# Wiki build dependencies. mkdocs-material pulls in mkdocs itself.
+mkdocs-material

@@ -1,0 +1,54 @@
+site_name: Elf Destiny Wiki
+site_description: >-
+  Community wiki for the Elf Destiny mods for Crusader Kings III and
+  Europa Universalis V — gameplay mechanics and shared lore.
+site_url: https://galacticliaison.github.io/elf-destiny-wiki/
+repo_url: https://github.com/GalacticLiaison/elf-destiny-wiki
+repo_name: GalacticLiaison/elf-destiny-wiki
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Lore:
+      - lore/index.md
+      - The Portal Network: lore/portal-network.md
+  - CK3 Mod:
+      - ck3/index.md
+  - EU5 Mod:
+      - eu5/index.md
