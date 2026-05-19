@@ -1,31 +1,37 @@
 {% if page.meta.comments != false %}
 <h2 id="page-discussion">Suggestions &amp; Discussion</h2>
-<script src="https://giscus.app/client.js"
-        data-repo="GalacticLiaison/elf-destiny-wiki"
-        data-repo-id="R_kgDOShPfEA"
-        data-category="Wiki Suggestions"
-        data-category-id="DIC_kwDOShPfEM4C9Y3q"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
 <script>
-  // Keep Giscus in sync when the reader toggles Material's dark/light mode
-  new MutationObserver(function() {
+  (function() {
     var isDark = document.body.getAttribute('data-md-color-scheme') === 'slate';
-    var frame = document.querySelector('iframe.giscus-frame');
-    if (frame) {
-      frame.contentWindow.postMessage(
-        { giscus: { setConfig: { theme: isDark ? 'dark' : 'light' } } },
-        'https://giscus.app'
-      );
-    }
-  }).observe(document.body, { attributes: true, attributeFilter: ['data-md-color-scheme'] });
+
+    var script = document.createElement('script');
+    script.src = 'https://giscus.app/client.js';
+    script.setAttribute('data-repo', 'GalacticLiaison/elf-destiny-wiki');
+    script.setAttribute('data-repo-id', 'R_kgDOShPfEA');
+    script.setAttribute('data-category', 'Wiki Suggestions');
+    script.setAttribute('data-category-id', 'DIC_kwDOShPfEM4C9Y3q');
+    script.setAttribute('data-mapping', 'pathname');
+    script.setAttribute('data-strict', '0');
+    script.setAttribute('data-reactions-enabled', '1');
+    script.setAttribute('data-emit-metadata', '0');
+    script.setAttribute('data-input-position', 'top');
+    script.setAttribute('data-theme', isDark ? 'dark' : 'light');
+    script.setAttribute('data-lang', 'en');
+    script.setAttribute('crossorigin', 'anonymous');
+    script.async = true;
+    document.currentScript.parentNode.replaceChild(script, document.currentScript);
+
+    // Keep Giscus in sync when the reader toggles Material's dark/light mode
+    new MutationObserver(function() {
+      var isDark = document.body.getAttribute('data-md-color-scheme') === 'slate';
+      var frame = document.querySelector('iframe.giscus-frame');
+      if (frame) {
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme: isDark ? 'dark' : 'light' } } },
+          'https://giscus.app'
+        );
+      }
+    }).observe(document.body, { attributes: true, attributeFilter: ['data-md-color-scheme'] });
+  })();
 </script>
 {% endif %}
