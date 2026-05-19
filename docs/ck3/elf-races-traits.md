@@ -24,13 +24,13 @@ Elfhood is layered. A character belongs to one **tier**, and through Ascension c
 climb toward god-like power. The mod recognises twelve elf tiers above ordinary
 humans:
 
-| Group | Tiers |
-|---|---|
-| *(Human — tier 0)* | Not an elf; severed from the Divine Spark |
-| **Common Elf** | Elf Blood · Elf · High Elf |
-| **Fae** | True Elf · Fae · Fae Radiant |
-| **Celestial** | Celestial · Seraphic Celestial · Eldar |
-| **Ainur** | Maiar · Valar · Aratar |
+| | Group | Tiers |
+|---|---|---|
+| ![](../assets/images/shared/traits/urf_human.png) | *(Human — tier 0)* | Not an elf; severed from the Divine Spark |
+| ![](../assets/images/shared/traits/elf_blood.png) | **Common Elf** | Elf Blood · Elf · High Elf |
+| ![](../assets/images/shared/traits/true_elf.png) | **Fae** | True Elf · Fae · Fae Radiant |
+| ![](../assets/images/shared/traits/celestial_elf.png) | **Celestial** | Celestial · Seraphic Celestial · Eldar |
+| ![](../assets/images/shared/traits/maiar.png) | **Ainur** | Maiar · Valar · Aratar |
 
 Each step up increases an elf's stat bonuses and lifespan; the highest tiers are
 effectively divine. The last tier of each group — **High Elf**, **Fae Radiant**, and
@@ -55,13 +55,13 @@ longer happens — high elves are truly, permanently immortal.
 
 Beyond the tier itself, the mod adds traits an elf character can pick up:
 
-| Trait | What it does |
-|---|---|
-| **Magic Talent** (I–III) | A genetic trait marking a knack for the Spark — boosts learning and lifestyle experience. Higher levels are stronger, and a level here is the groundwork for becoming a Magi. |
-| **Magi** | A wielder of the Spark — the mod's upgraded "miracle worker". Grants prowess. In the lore, true Spark-weaving is the domain of women. |
-| **Warg** | A bond with beasts — grants martial and intrigue, resistance to hostile schemes, dread, and the ability to send animals as spies. |
-| **Enchantress** | A master of allure — boosts intrigue and attraction, and lets the character *entrance* others. |
-| **Entranced / Enthralled** | Status traits placed on a character who has fallen under an Enchantress's sway. They sap learning and lifestyle growth; *Enthralled* is the deeper, stronger hold. |
+| | Trait | What it does |
+|---|---|---|
+| ![](../assets/images/ck3/traits/magic_talent_1.png)![](../assets/images/ck3/traits/magic_talent_2.png)![](../assets/images/ck3/traits/magic_talent_3.png) | **Magic Talent** (I–III) | A genetic trait marking a knack for the Spark — boosts learning and lifestyle experience. Higher levels are stronger, and a level here is the groundwork for becoming a Magi. |
+| ![](../assets/images/ck3/traits/magi.png) | **Magi** | A wielder of the Spark — the mod's upgraded "miracle worker". Grants prowess. In the lore, true Spark-weaving is the domain of women. |
+| ![](../assets/images/ck3/traits/warg.png) | **Warg** | A bond with beasts — grants martial and intrigue, resistance to hostile schemes, dread, and the ability to send animals as spies. |
+| ![](../assets/images/ck3/traits/enchantress.png) | **Enchantress** | A master of allure — boosts intrigue and attraction, and lets the character *entrance* others. |
+| ![](../assets/images/ck3/traits/entranced.png)![](../assets/images/ck3/traits/enthralled.png) | **Entranced / Enthralled** | Status traits placed on a character who has fallen under an Enchantress's sway. They sap learning and lifestyle growth; *Enthralled* is the deeper, stronger hold. |
 
 ## Bloodlines
 

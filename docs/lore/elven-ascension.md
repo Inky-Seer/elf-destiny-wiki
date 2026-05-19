@@ -14,7 +14,7 @@ Above ordinary humanity, the elves recognise twelve tiers of being:
 
 | Tier | | Name | Meaning |
 |---|---|---|---|
-| 0 | | Human | The bottom rung — severed from the Spark, unable to naturally Ascend. |
+| 0 | ![](../assets/images/shared/traits/urf_human.png) | Human | The bottom rung — severed from the Spark, unable to naturally Ascend. |
 | 1 | ![](../assets/images/shared/traits/elf_blood.png) | Elf Blood | A half-elf hybrid, still eligible for Ascension. |
 | 2 | ![](../assets/images/shared/traits/elf.png) | Elf | The base elf tier; where most newly transformed characters begin. |
 | 3 | ![](../assets/images/shared/traits/high_elf.png) | High Elf | The first true step of Ascension. |
