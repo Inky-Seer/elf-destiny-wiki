@@ -19,6 +19,19 @@ for in piety and prestige:
 | **Institutionalized Authority (II)** | The order is now part of the state. This is the law that **begins the Aeluran Regency** (see below), and brings piety bonuses and a stronger Aeluran army. |
 | **Aeluran Judiciary (III)** | The order takes over justice — reduced tyranny, more piety and legitimacy, and the strongest Aeluran army. |
 
+??? example "Law illustrations"
+    **Aeluran Realm Authority I**
+
+    ![Aeluran Realm Authority I](../assets/images/ck3/decisions/aeluran_realm_law_1.png)
+
+    **Institutionalized Authority (II)**
+
+    ![Institutionalized Authority](../assets/images/ck3/decisions/aeluran_realm_law_2.png)
+
+    **Aeluran Judiciary (III)**
+
+    ![Aeluran Judiciary](../assets/images/ck3/decisions/aeluran_realm_law_3.png)
+
 The trade is deliberate: every rung makes the order more useful *and* more powerful
 within your realm. Going secular again is always possible, but it ends the
 partnership entirely.
