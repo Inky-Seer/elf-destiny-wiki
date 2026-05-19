@@ -12,7 +12,7 @@ world.
 
 ## The premise
 
-At the beginning of civilisation, elves and humans came to this world through a
+At the beginning of civilization, elves and humans came to this world through a
 portal from another realm. Countless empires have risen and fallen since, and the
 elves have faded to the edges of the world and memory. You are the new **Elf Lord**,
 and your task is to restore the greatness of the elves — and to decide what this new

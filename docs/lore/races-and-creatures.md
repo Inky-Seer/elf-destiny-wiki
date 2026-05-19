@@ -6,7 +6,7 @@ tags:
 # Races & Creatures
 
 The world of Elf Destiny holds far more than the six great
-[elven cultures](elven-cultures.md). Elven civilisation once spanned the whole
+[elven cultures](elven-cultures.md). Elven civilization once spanned the whole
 planet and splintered into many peoples, and the world is also home to spirits,
 beasts, and monsters — many of them bound up with the magic of the Divine Spark or
 loosed from beyond the portal.
@@ -16,7 +16,7 @@ loosed from beyond the portal.
 The ancient ruins reveal many elven peoples beyond the playable six — most now
 extinct, reclusive, or reduced to remnants.
 
-- **The Engkanto** — descendants of the lost archipelago civilisation of **Lemuria**,
+- **The Engkanto** — descendants of the lost archipelago civilization of **Lemuria**,
   who still guard its stone relics. They are famed as masterful tricksters and
   enchanters, and often dangerous, wicked foes.
 - **The Vila** — a reclusive people, believed extinct for millennia, once renowned

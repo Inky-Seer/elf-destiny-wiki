@@ -41,7 +41,7 @@ ways — yet all still answer to the Divine Spark.
 
 That **Manwë Súlimo** is titled the *First Emperor* is no small detail: it binds the
 chief of the gods directly to the imperial history of the elves and the founding of
-their civilisation. The pantheon is said to number fourteen, and elven lore still
+their civilization. The pantheon is said to number fourteen, and elven lore still
 speaks of Valar yet to be named.
 
 ## Melkor, the Fallen Vala

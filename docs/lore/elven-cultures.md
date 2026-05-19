@@ -67,7 +67,7 @@ to the bone, and their gaze is fixed on reclaiming the lost glory of Atlantis.
 ## Not the whole of elvenkind
 
 These six are the playable elven cultures — but they are far from all the elves
-there are. Ancient elven civilisation spanned the entire world, and it left behind
+there are. Ancient elven civilization spanned the entire world, and it left behind
 many other peoples: the trickster Engkanto of lost Lemuria, the long-extinct Vila,
 the telepathic Mrenh Kongveal, and assorted tribal and cave-dwelling elves. Those
 wider elven kindreds are gathered on the [Races & Creatures](races-and-creatures.md)

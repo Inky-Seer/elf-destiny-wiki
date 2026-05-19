@@ -13,7 +13,7 @@ the six great [bloodline houses](bloodlines-and-dynasties.md).
 ## The Valerith realms — the deep north
 
 The largest bloc of elven nations lies in the deep north, and it is the heartland of
-elven civilisation as it survives today. Chief among its realms is **Deepwood**, the
+elven civilization as it survives today. Chief among its realms is **Deepwood**, the
 seat of the [Aeluran Order](aeluran-religion-and-order.md), ruled by Elandra Thalwyn
 and governed through an Elven Parliament.
 

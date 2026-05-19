@@ -12,18 +12,20 @@ one the grave of a kingdom, a hero, or a catastrophe.
 
 ## The deep timeline
 
-- **The Elder Ages** — the most ancient era of all, to which the very oldest ruins
-  are said to belong.
-- **The First Age** — when elves and humans first came through the Grand Portal; the
-  stone city around the portal itself dates to this age.
+- **The Elder Ages** — the collective name for the earliest span of elven
+  civilization, beginning with the First Age and encompassing many ages of early
+  history. Most of what happened in them is lost.
+  - **The First Age** — the opening chapter: when elves and humans first came through
+    the Grand Portal, roughly 300,000 years ago. The stone city around the portal
+    dates to this age.
 - **The Grand Wars** — at least three world-shaking conflicts; one armoury is still
   remembered as the *Sealed Armoury of the Third Grand War*.
-- **Countless empires** — elven civilisation was once global, and empires beyond
+- **Countless empires** — elven civilization was once global, and empires beyond
   number rose and fell across it.
 - **The Great Rebellion** — the human uprising that overthrew the Last Emperor and
   ended unified elven rule. (See [World History](world-history.md).)
 
-One theme recurs through all of it: **most lost elven civilisations fell to their
+One theme recurs through all of it: **most lost elven civilizations fell to their
 own magical hubris** — not to invaders, but to their own runaway power.
 
 ## Northern & Eastern Europe
@@ -110,7 +112,7 @@ own magical hubris** — not to invaders, but to their own runaway power.
   eight-headed dragon and claimed the sword *Grass Cutter*.
 - **Meng Jiang's Wrath** — where an Aeluran magi's grief, at the murder of her
   husband by a cruel dark elven emperor, shattered a wall, an emperor, and a realm.
-- **Ruins of Lemuria** — the remains of the great civilisation whose descendants are
+- **Ruins of Lemuria** — the remains of the great civilization whose descendants are
   the trickster [Engkanto](races-and-creatures.md).
 - **Ruins of Vael'Drakhor** — the Blood Forge, capital of the Dark Elves. (See
   [Dark Elves](dark-elves.md).)

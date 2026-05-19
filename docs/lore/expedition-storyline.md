@@ -18,7 +18,7 @@ It begins with the arrival of one strange visitor.
 ## Julia Melwood
 
 **Julia Melwood** is the spark that lights the whole story — a young human
-archaeologist who has devoted herself to the study of the lost elven civilisation.
+archaeologist who has devoted herself to the study of the lost elven civilization.
 She is brilliant in her field and endearingly awkward out of it, and she arrives at
 court with a map she cannot read and a request she will not drop.
 

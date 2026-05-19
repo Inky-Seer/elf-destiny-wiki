@@ -12,26 +12,27 @@ a campaign.
 
 ## The First Age
 
-At the dawn of recorded civilisation — the era the world remembers as the **First
-Age** — both elves and humans came to Earth through a great portal from another
-realm. The Divine Spark had added this world to its domain, seeded it with life, and
-linked it into a vast network of portals between worlds. The elves may have arrived
-even before the first humans.
+At the dawn of recorded civilization — an era believed to have begun roughly
+**300,000 years ago** — both elves and humans came to Earth through a great portal
+from another realm. The Divine Spark had added this world to its domain, seeded it
+with life, and linked it into a vast network of portals between worlds. The elves may
+have arrived even before the first humans. This opening era is called the **First Age**.
 
-An even older era is whispered of — the **Elder Ages** — to which the most ancient
-ruins of all are said to belong.
+The First Age and the ages that followed it are known collectively as the
+**Elder Ages** — a vast and mostly-forgotten span of early civilization. Most of what
+happened in them is lost.
 
 Since that beginning, countless elven and human empires have risen and fallen, most
 of them now lost entirely to time.
 
-## A world-spanning civilisation
+## A world-spanning civilization
 
-Ancient elven civilisation was never a regional affair — it was **planetary**.
+Ancient elven civilization was never a regional affair — it was **planetary**.
 Elves lived on every corner of the earth and raised countless empires across it. The
 ruins of their kingdoms, holy places, and lost cities lie scattered across every
 continent, from the Atlantic to the far Pacific.
 
-One grim pattern runs through that long history: most lost elven civilisations fell
+One grim pattern runs through that long history: most lost elven civilizations fell
 not to outside conquest but to **their own magical hubris** — runaway experiments,
 catastrophic rituals, and ruinous civil wars.
 
@@ -43,7 +44,7 @@ fortress-stronghold that would in time become his own burial place. He bore the
 and stood as the ultimate symbol of elven dominion over the world.
 
 The elves of this age were extraordinarily advanced, perhaps more so than any
-civilisation since, and their empire may have endured for thousands of years. They
+civilization since, and their empire may have endured for thousands of years. They
 were marked by their bond with the Divine Spark, their long lives, and their pursuit
 of Ascension toward ever higher forms of being.
 

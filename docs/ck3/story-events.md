@@ -25,7 +25,7 @@ they trigger. Each stage is collapsed below — open them in order.
     woman arrives at your court seeking an audience.
 
     She is **Julia Melwood**, an archaeologist who studies the lost Elven
-    civilisation. She brings a map covered in undecipherable Elven script that may
+    civilization. She brings a map covered in undecipherable Elven script that may
     show the **fortress tomb of the Last Elf Emperor** — and asks you to fund an
     expedition to find it.
 
