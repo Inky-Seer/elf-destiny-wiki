@@ -6,3 +6,7 @@ __pycache__/
 .venv/
 venv/
 .cache/
+
+# Claude AI tooling (local only — not for version control)
+CLAUDE.md
+.claude/
