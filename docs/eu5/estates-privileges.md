@@ -1,3 +1,9 @@
+---
+tags:
+  - EU5
+  - Government
+---
+
 # Estates & Privileges
 
 Elven society is governed through its estates — and Elf Destiny adds a new one, the
@@ -43,3 +49,9 @@ Aeluran Order, and gains four privileges of its own:
 Together, the two privilege sets are the levers of elven politics: how much power
 you hand the magical elite, and how deep you let the sisterhood into your
 government.
+
+## See also
+
+- [Pops & Cultures](pops-cultures.md) — the Calaquendi pop the estate is built on.
+- [Parliament](parliament.md) — where the estates exercise their influence.
+- [The Aeluran Religion & Holy Sites](aeluran-religion.md) — the faith behind the clergy estate.

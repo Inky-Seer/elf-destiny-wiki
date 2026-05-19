@@ -1,3 +1,9 @@
+---
+tags:
+  - EU5
+  - Religion
+---
+
 # The Aeluran Religion & Holy Sites
 
 All elves worship the **Divine Spark**, and the **Aeluran** faith is the religion
@@ -6,6 +12,8 @@ Weavers — the all-female sisterhood known to common folk as the Red Witches.
 
 For the deeper story of the faith and the Order, see the lore section's
 [Aeluran Religion & Order](../lore/aeluran-religion-and-order.md) page.
+
+![The Aeluran faith venerates the Divine Spark](../assets/images/eu5/events/aeluran_leaves.png)
 
 ## How the faith works
 
@@ -55,3 +63,10 @@ building up your religious influence capacity matters so much.
 The Aeluran Order exists in the game as an **international organisation** — a body
 that spans the elven world, led by the realm of Deepwood. It is the institutional
 form of the sisterhood that ties the scattered elven realms to a single faith.
+
+## See also
+
+- [The Aeluran Religion & Order](../lore/aeluran-religion-and-order.md) — the lore of the faith and sisterhood.
+- [Advances, Traits & Units](advances-traits-units.md) — the Ascension that religious influence fuels.
+- [Estates & Privileges](estates-privileges.md) — the Aeluran clergy estate.
+- [CK3 — Cultures & Religion](../ck3/cultures-religion.md) — the Aeluran faith in the CK3 mod.

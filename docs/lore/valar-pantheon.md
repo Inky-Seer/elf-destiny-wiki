@@ -1,3 +1,10 @@
+---
+tags:
+  - Lore
+  - Ascension
+  - Religion
+---
+
 # The Valar Pantheon
 
 The **Valar** are the gods of the elves — and the most important truth about them is
@@ -68,3 +75,9 @@ through ritual upon a whole elven people:
 
 Each Vala embodies a different facet of the world, and their blessings carry
 something of that domain to the elves who earn them.
+
+## See also
+
+- [Elven Ascension](elven-ascension.md) — the ladder whose summit is godhood.
+- [The Divine Spark & Cosmology](divine-spark-and-cosmology.md) — what the Valar serve.
+- [The Aeluran Religion & Order](aeluran-religion-and-order.md) — the faith and its Blessings.

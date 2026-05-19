@@ -1,8 +1,16 @@
+---
+tags:
+  - Lore
+  - Cosmology
+---
+
 # The Divine Spark & Cosmology
 
 Behind everything in the world of Elf Destiny stands the **Divine Spark** — the
 source of life, the power the elves draw upon, and the reason their world is shaped
 the way it is.
+
+![The Divine Spark](../assets/images/eu5/events/divine_spark.png)
 
 ## What is the Divine Spark?
 
@@ -82,3 +90,10 @@ of it is the Spark, flowing through those attuned to it.
 This is why Ascension matters so much. To climb the elven tiers is not merely to
 grow powerful — it is to draw closer, step by step, to the nature of the Divine
 Spark itself.
+
+## See also
+
+- [Elven Ascension](elven-ascension.md) — the ladder that leads toward the Spark.
+- [The Valar Pantheon](valar-pantheon.md) — elves who climbed it all the way.
+- [The Portal Network](portal-network.md) — how worlds are connected to the Spark.
+- [Magic](magic.md) — the Spark made usable.

@@ -1,3 +1,9 @@
+---
+tags:
+  - CK3
+  - Expeditions
+---
+
 # Decisions & Activities
 
 Beyond [expeditions](expeditions.md), Elf Destiny adds a set of decisions and
@@ -46,7 +52,22 @@ Elf Destiny adds its own activities alongside CK3's feasts and hunts:
 - **The Entrance Feast** — a feast tied to the *Entrance* power, where an elf turns
   the gathering's social currents to their advantage.
 
+??? example "Activity illustrations"
+    **The Entrance Feast**
+
+    ![The Entrance Feast](../assets/images/ck3/activities/activity_entrance_feast.png)
+
+    **Taming a direwolf pup**
+
+    ![Direwolf pups](../assets/images/ck3/activities/wolf_pups_background.png)
+
 !!! note "Story decisions"
     Some major decisions — *What is an Archaeologist?* and *Transport the Grand
     Portal* among them — drive the main story rather than ordinary play. Those are
     covered on the [Story Events](story-events.md) page.
+
+## See also
+
+- [Expeditions](expeditions.md) — the activity at the heart of the mod.
+- [Cultures & Religion](cultures-religion.md) — the Blessings the Blessing Ritual grants.
+- [Schemes, Hooks & Contracts](schemes-hooks-contracts.md) — the Entrance power behind the Entrance Feast.

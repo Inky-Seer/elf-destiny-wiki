@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Story
+---
+
 # Ancient History & Lost Civilizations
 
 Elven history on Earth is vast, ancient, and mostly lost. What survives, survives as
@@ -131,3 +137,9 @@ Many of these figures and places will be familiar — Camelot, Babylon, Sun Wuko
 Susanoo. In the world of Elf Destiny they are not borrowed myths but **elven history
 that humanity only half-remembers**: the legends of our own world, retold as they
 truly were.
+
+## See also
+
+- [World History](world-history.md) — the broad shape of the elven past.
+- [CK3 — Expeditions](../ck3/expeditions.md) — how these ruins are explored in play.
+- [Dark Elves](dark-elves.md) and [Races & Creatures](races-and-creatures.md) — what the ruins remember.

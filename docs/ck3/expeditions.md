@@ -1,3 +1,9 @@
+---
+tags:
+  - CK3
+  - Expeditions
+---
+
 # Expeditions
 
 Expeditions are the beating heart of Elf Destiny. They are the activity through
@@ -36,11 +42,22 @@ can mount another. When you plan it, you choose two things:
 You set out with an entourage of knights and adventurers, and may invite family and
 courtiers along.
 
+```mermaid
+graph LR
+    A["Discover a site"] --> B["Fund the expedition<br/>(gold + cooldown)"]
+    B --> C["Choose funding<br/>& party size"]
+    C --> D["Base Camp<br/>— trials & traps"]
+    D --> E["Treasures, traditions<br/>& transformations"]
+    D --> F["Injury or death"]
+```
+
 ## Inside the ruins
 
 Once the party arrives, the expedition plays out through a **Base Camp** phase: the
 adventurers press into the ruins and face whatever waits there — trials, traps,
 riddles, and unique encounters.
+
+![A trial of wisdom within the ruins](../assets/images/ck3/activities/trial_of_wisdom_background.png)
 
 It is genuinely dangerous. Participants can come home with **adventurer experience**,
 improved **opinion** of their fellow explorers, **prestige**, and relief from
@@ -84,3 +101,10 @@ the Grand Portal itself. Many recast real-world myth and history as elven legend
       King.
 
     ...and many more, from the Tomb of the Last Emperor to Heaven's Gate.
+
+## See also
+
+- [Story Events](story-events.md) — the questline expeditions carry forward.
+- [Decisions & Activities](decisions-activities.md) — the decision that hosts your first expedition.
+- [The Expedition Storyline](../lore/expedition-storyline.md) — the lore behind the ruins.
+- [Ancient History & Lost Civilizations](../lore/ancient-history-and-lost-civilizations.md) — the sites themselves.

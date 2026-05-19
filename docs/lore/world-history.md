@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Story
+---
+
 # World History
 
 The story of Elf Destiny stretches back across ages — from the first arrival of
@@ -94,3 +100,9 @@ the shared origin of elves and humans through the portal is just another fairy t
 | **The Grand Portal** | The ancient interdimensional gateway, destroyed by rebels after the Exodus. |
 | **Sigil of the Realm Lord** | The crystal amulet of the Last Emperor; marks its bearer as the rightful Elf Lord of the world. |
 | **Realm Lord** | The title of the one chosen by the Sigil — leader of all elven peoples on Earth. |
+
+## See also
+
+- [The Portal Network](portal-network.md) — the gateway whose destruction ended the First Age.
+- [The Expedition Storyline](expedition-storyline.md) — how the player's story takes up this history.
+- [Ancient History & Lost Civilizations](ancient-history-and-lost-civilizations.md) — the deep past told through ruins.

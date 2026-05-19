@@ -1,3 +1,9 @@
+---
+tags:
+  - EU5
+  - Cultures
+---
+
 # Pops & Cultures
 
 Elf Destiny adds elven cultures to the map and, above the ordinary nobility, an
@@ -43,3 +49,9 @@ pop type they are:
 Any country with an elven culture unlocks the Calaquendi pop and estate. Growing
 your Calaquendi population is a long-term investment: they are few, but they are the
 foundation of elven magical and military power.
+
+## See also
+
+- [Elven Cultures](../lore/elven-cultures.md) — the lore behind the seven cultures.
+- [Estates & Privileges](estates-privileges.md) — the Calaquendi as an estate.
+- [Game Rules & Setup](game-rules.md) — the option that tunes genetic-trait rarity.

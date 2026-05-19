@@ -1,3 +1,9 @@
+---
+tags:
+  - EU5
+  - Portal
+---
+
 # The Portal Network
 
 The restoration of the **Grand Portal** is the central goal of an Elf Destiny
@@ -32,12 +38,27 @@ Completing the restoration is a turning point for the whole realm. It:
 Once restored, the portal becomes a **situation** on the map — a live network of
 linked portal sites. Three buildings make it up:
 
-| Building | Role |
-|---|---|
-| **Grand Portal** | The restored portal itself — the heart of the network. |
-| **Prime Portal Hub** | A primary station extending the network. |
-| **Lesser Portal Node** | Secondary connection points built elsewhere in the realm. |
+| | Building | Role |
+|---|---|---|
+| ![](../assets/images/eu5/buildings/grand_portal.png){ width="56" } | **Grand Portal** | The restored portal itself — the heart of the network. |
+| ![](../assets/images/eu5/buildings/prime_portal_hub.png){ width="56" } | **Prime Portal Hub** | A primary station extending the network. |
+| ![](../assets/images/eu5/buildings/lesser_portal_node.png){ width="56" } | **Lesser Portal Node** | Secondary connection points built elsewhere in the realm. |
+
+```mermaid
+graph TD
+    GP(["Grand Portal"]) --> PH1["Prime Portal Hub"]
+    GP --> PH2["Prime Portal Hub"]
+    PH1 --> LN1["Lesser Portal Node"]
+    PH1 --> LN2["Lesser Portal Node"]
+    PH2 --> LN3["Lesser Portal Node"]
+```
 
 On the map, the network shows which portals are **usable** to you and which are not,
 letting an elven realm move across great distances in a way no human power can
 match.
+
+## See also
+
+- [The Portal Network](../lore/portal-network.md) — the lore of the Grand Portal.
+- [Parliament](parliament.md) — the Crown issues that pass the restoration.
+- [Advances, Traits & Units](advances-traits-units.md) — the higher Ascension restoration unlocks.

@@ -1,3 +1,8 @@
+---
+tags:
+  - CK3
+---
+
 # Buildings
 
 Elf Destiny reworks parts of CK3's holding economy for elves — extra tiers of tribal
@@ -46,3 +51,9 @@ A handful of unique special buildings anchor key locations:
 
 The faith's many other holy sites are the ancient elven ruins themselves — the
 places you visit on [expeditions](expeditions.md).
+
+## See also
+
+- [Government & Diarchies](government-diarchies.md) — the Ascended Tribal government behind the upper building tiers.
+- [Cultures & Religion](cultures-religion.md) — the Woodland Bounty tradition.
+- [Story Events](story-events.md) — how the Ancient Portal Ruins become the restored Grand Portal.

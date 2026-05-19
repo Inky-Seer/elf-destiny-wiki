@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Magic
+---
+
 # Magic
 
 The magic of the elves is called **Spark Weaving** — the art of shaping *Spark*, the
@@ -77,3 +83,10 @@ Two kinds of weaver stand out in the elven world. The **Aeluran Sisters**, train
 from youth, are the most disciplined Magi of all — and their Matrons more gifted
 still. And the **High Magi** — few in number but devastating in war — are the elven
 spellcasters who turn a battlefield with a handful of figures rather than a host.
+
+## See also
+
+- [Elven Ascension](elven-ascension.md) — attunement to the Spark grows with each tier.
+- [The Aeluran Religion & Order](aeluran-religion-and-order.md) — the sisterhood of Magi.
+- [Dark Elves](dark-elves.md) — the Spark turned to blood magic.
+- [Units & Warfare](../ck3/units-warfare.md) — Magi and Empowered Knights on the battlefield.

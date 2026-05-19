@@ -1,3 +1,9 @@
+---
+tags:
+  - CK3
+  - Story
+---
+
 # Story Events
 
 Elf Destiny has a hand-written main questline running through a campaign. It begins
@@ -30,6 +36,8 @@ they trigger. Each stage is collapsed below — open them in order.
     Realm Lord** — an artifact that marks you as the one destined to lead elvenkind's
     return.
 
+    ![The tomb of the Last Elf Emperor and the Sigil](../assets/images/ck3/activities/dead_elf_king_with_sigil.png)
+
 ??? note "3 — The Aeluran Order"
     With the Sigil in hand, you make contact with the **Aeluran Order**, the
     sisterhood that has kept the elven faith alive. This conversation opens the rest
@@ -41,6 +49,8 @@ they trigger. Each stage is collapsed below — open them in order.
     enormous stone pieces are loaded onto wagons and hauled, slowly, to your
     **capital** — *"The New Age will begin there."*
 
+    ![The broken Grand Portal](../assets/images/ck3/events/portal_broken.png)
+
 ??? note "5 — Gathering the components"
     A restored portal needs more than its stones. Further expeditions must recover
     its two lost working parts — the **Portal Capacitor** and the **Navigation
@@ -48,6 +58,8 @@ they trigger. Each stage is collapsed below — open them in order.
 
 ??? note "6 — Restoring the Grand Portal"
     With both components and the Sigil, take **"Restore the Grand Portal."**
+
+    ![The restored Grand Portal](../assets/images/ck3/events/portal_restored.png)
 
     > *"After many trials and great personal cost the Grand Portal is finally
     > restored! Once more the gateway between this world and the countless realms of
@@ -69,3 +81,9 @@ will on a faith that has stood unchanged for a thousand years.
 For the deeper lore of the Grand Portal — what it is, where it came from, and what
 its restoration means for the world — see the lore section's
 [Portal Network](../lore/portal-network.md) page.
+
+## See also
+
+- [The Expedition Storyline](../lore/expedition-storyline.md) — the same questline told as lore.
+- [Expeditions](expeditions.md) — the activity that recovers the portal's components.
+- [Government & Diarchies](government-diarchies.md) — weaving the Aeluran Order into your rule.

@@ -1,3 +1,9 @@
+---
+tags:
+  - CK3
+  - Getting Started
+---
+
 # Crusader Kings III Mod
 
 **Elf Destiny** for Crusader Kings III is the original, fuller version of the mod —
@@ -13,19 +19,101 @@ to lead elvenkind's return to power.
 
 From there the campaign is about rediscovering what the elves lost: their long
 lifespans and god-like potential, their forgotten culture, their faith, and the
-ancient Grand Portal that once linked this world to countless others.
+ancient [Grand Portal](../lore/portal-network.md) that once linked this world to
+countless others.
 
-## What the mod adds
+## Explore the mechanics
 
-| System | What it is |
-|---|---|
-| **Elf traits & Ascension** | Pointy ears, century-spanning lifespans, and a tiered Ascension ladder that climbs toward god-like power. |
-| **Expeditions** | An activity for exploring ancient elf ruins — trials, traps, treasures, and the discovery that starts it all. |
-| **Lost Traditions & Blessings** | Shape your elf culture: traditions recovered from ruins, and unpredictable divine gifts from the Divine Spark. |
-| **The Aeluran Weavers** | An all-female religious order — inspired by the Aes Sedai and Bene Gesserit — that replaces your court chaplain with a far more powerful advisor. |
-| **Bloodlines** | Scattered descendants of the ancient elf dynasties carry unique genetic traits. Breed them back into your line through careful matchmaking. |
+<div class="grid cards" markdown>
 
-Each of these gets its own page in this section as the wiki fills out.
+-   :material-treasure-chest:{ .lg .middle } __Expeditions__
+
+    ---
+
+    The activity for exploring ancient elf ruins — funding, party size, the Base
+    Camp, and the trials, traps and treasures within.
+
+    [:octicons-arrow-right-24: Expeditions](expeditions.md)
+
+-   :material-stairs-up:{ .lg .middle } __Elf Races & Traits__
+
+    ---
+
+    What elfhood means: pointed ears, century-long lifespans, the twelve-tier
+    Ascension ladder, and the mod's notable traits.
+
+    [:octicons-arrow-right-24: Elf Races & Traits](elf-races-traits.md)
+
+-   :material-sitemap:{ .lg .middle } __Bloodlines__
+
+    ---
+
+    The six bloodline houses, their gifts and curses, and how to breed them back
+    into your dynasty.
+
+    [:octicons-arrow-right-24: Bloodlines](bloodlines.md)
+
+-   :material-crown:{ .lg .middle } __Government & Diarchies__
+
+    ---
+
+    Aeluran Realm Authority law, the Aeluran Regency power balance, and the
+    Ascended Tribal government.
+
+    [:octicons-arrow-right-24: Government & Diarchies](government-diarchies.md)
+
+-   :material-account-group:{ .lg .middle } __Cultures & Religion__
+
+    ---
+
+    The six elven cultures, the Lost Traditions discovery mechanic, and the Aeluran
+    faith.
+
+    [:octicons-arrow-right-24: Cultures & Religion](cultures-religion.md)
+
+-   :material-gesture-tap-button:{ .lg .middle } __Decisions & Activities__
+
+    ---
+
+    Religious rituals, realm decisions, personal decisions, and the mod's custom
+    activities.
+
+    [:octicons-arrow-right-24: Decisions & Activities](decisions-activities.md)
+
+-   :material-shield-account:{ .lg .middle } __Schemes, Hooks & Contracts__
+
+    ---
+
+    The entrance scheme, six custom hook types, and Aeluran vassal contracts.
+
+    [:octicons-arrow-right-24: Schemes, Hooks & Contracts](schemes-hooks-contracts.md)
+
+-   :material-sword-cross:{ .lg .middle } __Units & Warfare__
+
+    ---
+
+    The seven elven men-at-arms regiments and the holy-order troops behind them.
+
+    [:octicons-arrow-right-24: Units & Warfare](units-warfare.md)
+
+-   :material-castle:{ .lg .middle } __Buildings__
+
+    ---
+
+    The elven buildings that reshape your holdings.
+
+    [:octicons-arrow-right-24: Buildings](buildings.md)
+
+-   :material-script-text:{ .lg .middle } __Story Events__
+
+    ---
+
+    Act 1 of the questline: the archaeologist, the transformation, and the road to
+    the Portal.
+
+    [:octicons-arrow-right-24: Story Events](story-events.md)
+
+</div>
 
 ## Getting started
 

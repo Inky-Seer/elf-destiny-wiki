@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Portal
+---
+
 # The Portal Network
 
 The Grand Portal is an ancient interdimensional gateway that once connected this
@@ -48,6 +54,8 @@ been found. Restoring it is the spine of the main questline.
 
 ## What restoration unlocks
 
+![The restored Grand Portal](../assets/images/eu5/events/portal_restored.png)
+
 Once the Grand Portal is whole again, the portal network becomes a working part of
 your realm:
 
@@ -75,3 +83,21 @@ Reopening the portal does more than move armies around:
 Before restoration, the chosen player carries the title of **Realm Lord**. Once the
 Grand Portal is restored, this becomes **True Realm Lord** — a lasting recognition of
 the player's worthiness, and a signal that the time of Elves has come again.
+
+## How it plays in each game
+
+=== "Crusader Kings III"
+
+    Restoration is a **story questline**. Successive [expeditions](../ck3/expeditions.md)
+    recover the portal's lost components — the Spark Capacitor and the Navigation
+    Relay — and once they are gathered the portal is rebuilt through
+    [story events](../ck3/story-events.md).
+
+=== "Europa Universalis V"
+
+    Restoration is a **two-step process** run through the
+    [Elven Parliament](../eu5/parliament.md): *Transport the Portal*, then *Restore
+    the Portal*. The finished network is made of three buildings — the Grand Portal,
+    Prime Portal Hubs, and Lesser Portal Nodes.
+
+    [:octicons-arrow-right-24: EU5 — The Portal Network](../eu5/portal-network.md)

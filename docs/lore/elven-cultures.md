@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Cultures
+---
+
 # Elven Cultures
 
 Six distinct elven cultures survive into the present day, scattered across the lands
@@ -64,5 +70,11 @@ These six are the playable elven cultures — but they are far from all the elve
 there are. Ancient elven civilisation spanned the entire world, and it left behind
 many other peoples: the trickster Engkanto of lost Lemuria, the long-extinct Vila,
 the telepathic Mrenh Kongveal, and assorted tribal and cave-dwelling elves. Those
-wider elven kindreds are gathered on the Races & Creatures page, and the Dark Elves
-have a dark history all their own.
+wider elven kindreds are gathered on the [Races & Creatures](races-and-creatures.md)
+page, and the [Dark Elves](dark-elves.md) have a dark history all their own.
+
+## See also
+
+- [Bloodlines & Dynasties](bloodlines-and-dynasties.md) — the house behind each culture.
+- [Nations & Factions](nations-and-factions.md) — the realms these cultures hold.
+- [CK3 — Cultures & Religion](../ck3/cultures-religion.md) and [EU5 — Pops & Cultures](../eu5/pops-cultures.md) — cultures in play.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Lore
+---
+
 # Lore
 
 The shared world of Elf Destiny — its history, peoples, magic, and gods — told the
@@ -10,40 +15,145 @@ behind, and the one they may yet reclaim.
 
 ## The world
 
-- **[World History](world-history.md)** — from the First Age to the diminished
-  present day.
-- **[The Divine Spark & Cosmology](divine-spark-and-cosmology.md)** — the source of
-  all life, the connected worlds, and the Void between them.
-- **[The Portal Network](portal-network.md)** — the Grand Portal, the gateway
-  between worlds, and the heart of the main story.
+<div class="grid cards" markdown>
+
+-   :material-timeline-clock:{ .lg .middle } __World History__
+
+    ---
+
+    From the First Age to the diminished present day.
+
+    [:octicons-arrow-right-24: Read more](world-history.md)
+
+-   :material-star-four-points:{ .lg .middle } __The Divine Spark & Cosmology__
+
+    ---
+
+    The source of all life, the connected worlds, and the Void between them.
+
+    [:octicons-arrow-right-24: Read more](divine-spark-and-cosmology.md)
+
+-   :material-vector-circle:{ .lg .middle } __The Portal Network__
+
+    ---
+
+    The Grand Portal, the gateway between worlds, and the heart of the main story.
+
+    [:octicons-arrow-right-24: Read more](portal-network.md)
+
+</div>
 
 ## The elves
 
-- **[Elven Ascension](elven-ascension.md)** — the twelve tiers, from Elf Blood to
-  godhood.
-- **[The Valar Pantheon](valar-pantheon.md)** — the gods of the elves, and how they
-  came to be.
-- **[The Aeluran Religion & Order](aeluran-religion-and-order.md)** — the faith of
-  the Divine Spark and the sisterhood that keeps it.
-- **[Magic](magic.md)** — Spark Weaving, Magi and Empowered Knights, oracles and
-  dark arts.
-- **[Genetics & Heredity](genetics-and-traits.md)** — the elven obsession with
-  inherited excellence.
-- **[Bloodlines & Dynasties](bloodlines-and-dynasties.md)** — the six great houses
-  and their gifts and curses.
-- **[Elven Cultures](elven-cultures.md)** — the six surviving elven peoples.
-- **[Nations & Factions](nations-and-factions.md)** — the elven realms of the
-  present day.
+<div class="grid cards" markdown>
+
+-   :material-stairs-up:{ .lg .middle } __Elven Ascension__
+
+    ---
+
+    The twelve tiers, from Elf Blood to godhood.
+
+    [:octicons-arrow-right-24: Read more](elven-ascension.md)
+
+-   :material-pillar:{ .lg .middle } __The Valar Pantheon__
+
+    ---
+
+    The gods of the elves, and how they came to be.
+
+    [:octicons-arrow-right-24: Read more](valar-pantheon.md)
+
+-   :material-hand-heart:{ .lg .middle } __The Aeluran Religion & Order__
+
+    ---
+
+    The faith of the Divine Spark and the sisterhood that keeps it.
+
+    [:octicons-arrow-right-24: Read more](aeluran-religion-and-order.md)
+
+-   :material-auto-fix:{ .lg .middle } __Magic__
+
+    ---
+
+    Spark Weaving, Magi and Empowered Knights, oracles and dark arts.
+
+    [:octicons-arrow-right-24: Read more](magic.md)
+
+-   :material-dna:{ .lg .middle } __Genetics & Heredity__
+
+    ---
+
+    The elven obsession with inherited excellence.
+
+    [:octicons-arrow-right-24: Read more](genetics-and-traits.md)
+
+-   :material-sitemap:{ .lg .middle } __Bloodlines & Dynasties__
+
+    ---
+
+    The six great houses and their gifts and curses.
+
+    [:octicons-arrow-right-24: Read more](bloodlines-and-dynasties.md)
+
+-   :material-account-group:{ .lg .middle } __Elven Cultures__
+
+    ---
+
+    The six surviving elven peoples.
+
+    [:octicons-arrow-right-24: Read more](elven-cultures.md)
+
+-   :material-map:{ .lg .middle } __Nations & Factions__
+
+    ---
+
+    The elven realms of the present day.
+
+    [:octicons-arrow-right-24: Read more](nations-and-factions.md)
+
+</div>
 
 ## The wider world
 
-- **[Dark Elves](dark-elves.md)** — the elves who turned to blood magic.
-- **[Races & Creatures](races-and-creatures.md)** — the other peoples, beasts, and
-  spirits of the world.
-- **[Ancient History & Lost Civilizations](ancient-history-and-lost-civilizations.md)**
-  — the fallen kingdoms told through their ruins.
+<div class="grid cards" markdown>
+
+-   :material-skull:{ .lg .middle } __Dark Elves__
+
+    ---
+
+    The elves who turned to blood magic.
+
+    [:octicons-arrow-right-24: Read more](dark-elves.md)
+
+-   :material-paw:{ .lg .middle } __Races & Creatures__
+
+    ---
+
+    The other peoples, beasts, and spirits of the world.
+
+    [:octicons-arrow-right-24: Read more](races-and-creatures.md)
+
+-   :material-bank:{ .lg .middle } __Ancient History & Lost Civilizations__
+
+    ---
+
+    The fallen kingdoms told through their ruins.
+
+    [:octicons-arrow-right-24: Read more](ancient-history-and-lost-civilizations.md)
+
+</div>
 
 ## The story
 
-- **[The Expedition Storyline](expedition-storyline.md)** — the main questline, from
-  the archaeologist's arrival to the restoration of the Grand Portal.
+<div class="grid cards" markdown>
+
+-   :material-script-text:{ .lg .middle } __The Expedition Storyline__
+
+    ---
+
+    The main questline, from the archaeologist's arrival to the restoration of the
+    Grand Portal.
+
+    [:octicons-arrow-right-24: Read more](expedition-storyline.md)
+
+</div>

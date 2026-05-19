@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Religion
+---
+
 # The Aeluran Religion & Order
 
 All elves worship the [Divine Spark](divine-spark-and-cosmology.md). The **Aeluran
@@ -89,3 +95,23 @@ restoration of the Grand Portal is itself rewarded with a free Blessing.
     powerful sisters arriving from beyond to make demands and offer gifts — and lore
     points toward a possible future in which the sisterhood becomes a conquering
     power in its own right.
+
+## How it plays in each game
+
+=== "Crusader Kings III"
+
+    The Aeluran faith installs a powerful **Aeluran Advisor** in place of the court
+    chaplain — one no ruler may dismiss. Granting the Order authority drives the
+    **Aeluran Realm Authority** law and the **Aeluran Regency**, and at its fullest
+    extent the Order becomes a government of its own.
+
+    [:octicons-arrow-right-24: CK3 — Cultures & Religion](../ck3/cultures-religion.md) ·
+    [Government & Diarchies](../ck3/government-diarchies.md)
+
+=== "Europa Universalis V"
+
+    The Aeluran faith runs on **religious influence** and a female-only cabinet. Its
+    five **religious aspects** shape the realm, holy sites anchor it, and stored
+    influence pays for [Ascension](elven-ascension.md) and **Blessings**.
+
+    [:octicons-arrow-right-24: EU5 — The Aeluran Religion & Holy Sites](../eu5/aeluran-religion.md)

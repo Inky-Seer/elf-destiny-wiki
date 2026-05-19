@@ -1,3 +1,9 @@
+---
+tags:
+  - EU5
+  - Government
+---
+
 # Government & Laws
 
 Elf Destiny gives elven realms a set of their own government reforms and reworks
@@ -42,13 +48,27 @@ The mod adds and reworks several laws for elven realms:
 
 | Doctrine | Marriage policy |
 |---|---|
-| Dynastic banned | No family marriage at all. |
-| Restricted | Distant relatives only. |
-| Cousins allowed | First cousins permitted. |
-| Aunt/uncle allowed | One generation removed permitted. |
-| Unrestricted | Any family marriage permitted. |
+| Lineal Prohibition | No marriage within the family line at all. |
+| Close-kin Taboo | Marrying any relative is a grave offense. |
+| Cousin Marriage | First cousins may wed. |
+| Avunculate Marriage | Cousins and aunt/uncle–niece/nephew unions are allowed. |
+| Unrestricted Marriage | Any family marriage permitted. |
+
+```mermaid
+graph LR
+    A["Lineal<br/>Prohibition"] --> B["Close-kin<br/>Taboo"]
+    B --> C["Cousin<br/>Marriage"]
+    C --> D["Avunculate<br/>Marriage"]
+    D --> E["Unrestricted<br/>Marriage"]
+```
 
 The looser doctrines are favoured by the [Calaquendi](pops-cultures.md#the-calaquendi)
 and the crown — a reflection of the elven obsession with pure bloodlines. Adopting
 the unrestricted doctrine in an Aeluran realm can even prompt the Divine Spark to
 take notice.
+
+## See also
+
+- [Nations & Factions](../lore/nations-and-factions.md) — the lore of the choice toward humanity.
+- [Estates & Privileges](estates-privileges.md) and [Parliament](parliament.md) — the rest of elven governance.
+- [CK3 — Government & Diarchies](../ck3/government-diarchies.md) — the CK3 mod's elven government.

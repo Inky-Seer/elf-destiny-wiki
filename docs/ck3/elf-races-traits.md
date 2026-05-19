@@ -1,3 +1,9 @@
+---
+tags:
+  - CK3
+  - Ascension
+---
+
 # Elf Races & Traits
 
 Becoming an elf is the turning point of every Elf Destiny campaign. This page covers
@@ -44,6 +50,8 @@ How a character actually rises through these tiers — the genetic lottery and t
 Ascension ritual — is part of the faith and culture systems, covered on their own
 pages.
 
+![Communing with the Divine Spark](../assets/images/ck3/events/divine_spark.png)
+
 ## Immortality
 
 Immortality in Elf Destiny is tied to tier, not inherited directly. An elf becomes
@@ -72,3 +80,10 @@ curse. Breeding these prized bloodlines back into your own line is a central pur
 of elven nobility.
 
 The six houses get a page of their own — see [Bloodlines](bloodlines.md).
+
+## See also
+
+- [Elven Ascension](../lore/elven-ascension.md) — the lore of the twelve tiers and the climb toward godhood.
+- [Magic](../lore/magic.md) — what the Magi and Magic Talent traits draw on.
+- [Cultures & Religion](cultures-religion.md) — how the Ascension ritual is performed.
+- [EU5 — Advances, Traits & Units](../eu5/advances-traits-units.md) — the same tiers in the EU5 mod.

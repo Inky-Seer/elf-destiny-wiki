@@ -1,3 +1,10 @@
+---
+tags:
+  - Lore
+  - Story
+  - Expeditions
+---
+
 # The Expedition Storyline
 
 The heart of an Elf Destiny campaign is a single unfolding story — the tale of how
@@ -71,6 +78,8 @@ court with a map she cannot read and a request she will not drop.
 
 ## Treasures of the expeditions
 
+![The Sigil of the Realm Lord](../assets/images/eu5/events/realm_lord_sigil.png)
+
 The expeditions turn up more than portal parts. Chief among the finds is the
 **Sigil of the Realm Lord** itself — the radiant amulet of the Last Emperor — along
 with the portal's **Spark Capacitor** and **Navigation Relay**, and curiosities like
@@ -80,3 +89,19 @@ One discovery, the knowledge of working *Mythril*, carries the mod's single pass
 mention of **dwarves** — *"More common among Dwarves, but where is one going to find
 one of them these days?"* It is a throwaway line, and dwarves appear nowhere else;
 make of it what you will.
+
+## How it plays in each game
+
+=== "Crusader Kings III"
+
+    The story unfolds through a chain of [story events](../ck3/story-events.md),
+    while [expeditions](../ck3/expeditions.md) are run as an **activity** — you fund
+    a party, set out for the ruins, and work through their trials and treasures.
+
+=== "Europa Universalis V"
+
+    The first expedition is what **transforms your characters into elves**.
+    Afterwards, expeditions run through the **Fund Expedition** interaction and a
+    chain of events rather than a mission tree.
+
+    [:octicons-arrow-right-24: EU5 — Expeditions](../eu5/expeditions.md)

@@ -1,3 +1,8 @@
+---
+tags:
+  - CK3
+---
+
 # Schemes, Hooks & Contracts
 
 Elf Destiny adds an elven scheme — *Entrance* — along with the hooks it produces and
@@ -63,3 +68,9 @@ Each track runs through five steps — *Exempt, Low, Normal, High, Extortionate*
 Pushing every track to *Extortionate* squeezes the most out of an Aeluran vassal —
 at a steep cost to their opinion of you — so the contracts are best read alongside
 the regency's [balance of power](government-diarchies.md#the-aeluran-regency).
+
+## See also
+
+- [Government & Diarchies](government-diarchies.md) — the Aeluran Regency that governs the contracts.
+- [Decisions & Activities](decisions-activities.md) — the Break an Entrancement decision.
+- [Magic](../lore/magic.md) — the Spark mastery behind the Entrance scheme.

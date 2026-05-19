@@ -1,3 +1,10 @@
+---
+tags:
+  - EU5
+  - Ascension
+  - Warfare
+---
+
 # Advances, Traits & Units
 
 This page covers the elven institution and its advance tree, the elf racial tiers,
@@ -52,6 +59,42 @@ research the advance tree and adopt the right reforms:
 | **Mythril-Plated Fey Vanguard** | Heavy elven infantry in legendary Mythril armour. |
 | **Mythril-Plated Horse Masters** | Mythril-armoured elven cavalry. |
 
+??? example "Unit illustrations"
+    **Fey Archers**
+
+    ![Fey Archers](../assets/images/eu5/units/fey_archers.png)
+
+    **Elf Noble Lancers**
+
+    ![Elf Noble Lancers](../assets/images/eu5/units/elf_noble_lancers.png)
+
+    **Ranger High Guard**
+
+    ![Ranger High Guard](../assets/images/eu5/units/ranger_high_guard.png)
+
+    **Calaquendi High Magi**
+
+    ![Calaquendi High Magi](../assets/images/eu5/units/calaquendi_high_magi.png)
+
+    **Wolf Riders**
+
+    ![Wolf Riders](../assets/images/eu5/units/wolf_riders.png)
+
+    **Mythril-Plated Fey Vanguard**
+
+    ![Mythril-Plated Fey Vanguard](../assets/images/eu5/units/mythril_plated_fey_vanguard.png)
+
+    **Mythril-Plated Horse Masters**
+
+    ![Mythril-Plated Horse Masters](../assets/images/eu5/units/mythril_plated_horse_masters.png)
+
 The Mythril-plated units, like Mythril coinage, depend on discovering **Mythril
 Working** — the lost craft of working the metal *"desired even by the Valar
 themselves."*
+
+## See also
+
+- [Elven Ascension](../lore/elven-ascension.md) — the lore of the twelve tiers.
+- [The Aeluran Religion & Holy Sites](aeluran-religion.md) — the religious influence that fuels Ascension.
+- [The Portal Network](portal-network.md) — the restoration that gates the magic branch.
+- [CK3 — Units & Warfare](../ck3/units-warfare.md) — the CK3 mod's elven roster.

@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Cultures
+---
+
 # Nations & Factions
 
 By the start of a campaign, the elves are no longer an empire — they are several
@@ -64,3 +70,9 @@ lives among. It is the defining alignment of a campaign:
   equal. A road of diplomacy, integration, and harmony.
 
 There is no neutral ground. Which path a realm takes shapes everything that follows.
+
+## See also
+
+- [Elven Cultures](elven-cultures.md) — the peoples who hold these realms.
+- [Bloodlines & Dynasties](bloodlines-and-dynasties.md) — the six houses the nations group around.
+- [EU5 — Government & Laws](../eu5/government-laws.md) — where the choice toward humanity is made.

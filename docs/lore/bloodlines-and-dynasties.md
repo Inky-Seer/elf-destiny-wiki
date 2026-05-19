@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Bloodlines
+---
+
 # Bloodlines & Dynasties
 
 Six great elven houses survived the fall of the ancient empire, and each still
@@ -91,3 +97,9 @@ is the point: Myrddin is meant to be a mystery.
     house, earned by achieving some feat that epitomises it, which would strip the
     bloodline of its curse and leave only the gift. This is lore aimed at the mod's
     future rather than its present.
+
+## See also
+
+- [Genetics & Heredity](genetics-and-traits.md) — how gifts and curses are inherited.
+- [Elven Cultures](elven-cultures.md) — the culture tied to each of the six houses.
+- [CK3 — Bloodlines](../ck3/bloodlines.md) — collecting and breeding the houses in play.

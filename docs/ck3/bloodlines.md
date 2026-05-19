@@ -1,3 +1,9 @@
+---
+tags:
+  - CK3
+  - Bloodlines
+---
+
 # Bloodlines
 
 Long before the elves were scattered, six great houses shaped their own lineages
@@ -38,3 +44,9 @@ The Aeluran Order prizes bloodline purity, and it shows in the
 carries one of the six bloodlines earns the Order's **respect**. Cultivating pure
 lineages, then, is not only a path to stronger heirs — it is a way to keep the
 sisterhood favourably disposed toward your rule.
+
+## See also
+
+- [Bloodlines & Dynasties](../lore/bloodlines-and-dynasties.md) — the full lore of the six houses.
+- [Genetics & Heredity](../lore/genetics-and-traits.md) — how gifts, curses, and blood purity are inherited.
+- [Decisions & Activities](decisions-activities.md) — the Aeluran Matchmaking activity.

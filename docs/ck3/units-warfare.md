@@ -1,3 +1,9 @@
+---
+tags:
+  - CK3
+  - Warfare
+---
+
 # Units & Warfare
 
 Elf Destiny gives elven realms their own roster of men-at-arms — most of them
@@ -83,3 +89,9 @@ A few principles run through the whole elven roster:
 - **Holy orders ride to war too.** The Aeluran faith's holy orders field elven
   troops of their own — Fey Archers, Ranger High Guard, Wolf Riders, and Mosswood
   Dragoons among them.
+
+## See also
+
+- [Cultures & Religion](cultures-religion.md) — the traditions that unlock most regiments.
+- [Magic](../lore/magic.md) — the Spark Weaving behind the Aeluran Magi.
+- [EU5 — Advances, Traits & Units](../eu5/advances-traits-units.md) — the EU5 mod's elven units.

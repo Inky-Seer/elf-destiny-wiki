@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Magic
+---
+
 # Dark Elves
 
 Across the history of the world, one shadow falls again and again: the **Dark
@@ -69,3 +75,9 @@ history runs dark, the Dark Elves are rarely far away.
     right, with their own religion, culture, and dark traditions — and perhaps a
     connection to the [rival creator gods](divine-spark-and-cosmology.md) who covet
     this world.
+
+## See also
+
+- [Magic](magic.md) — Spark Weaving and the blood magic that perverts it.
+- [Races & Creatures](races-and-creatures.md) — the twisted creatures of the Blood Forge.
+- [Ancient History & Lost Civilizations](ancient-history-and-lost-civilizations.md) — the dark elven ruins.

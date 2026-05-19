@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Bloodlines
+---
+
 # Genetics & Heredity
 
 Elven society is built on a single conviction: that excellence is **inherited**, and
@@ -49,3 +55,9 @@ For all the elven faith in blood, one thing does **not** pass through it:
 **immortality**. An elf's deathlessness is not carried in the bloodline — it is
 granted according to their [Ascension tier](elven-ascension.md). The *elf* itself is
 heritable; the immortality is a consequence of how high that elf has climbed.
+
+## See also
+
+- [Bloodlines & Dynasties](bloodlines-and-dynasties.md) — the six great houses and their signature traits.
+- [CK3 — Bloodlines](../ck3/bloodlines.md) and [EU5 — Pops & Cultures](../eu5/pops-cultures.md) — how heredity plays in each mod.
+- [Game Rules & Setup](../eu5/game-rules.md) — the EU5 option that tunes genetic-trait rarity.

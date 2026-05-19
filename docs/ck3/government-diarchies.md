@@ -1,3 +1,9 @@
+---
+tags:
+  - CK3
+  - Government
+---
+
 # Government & Diarchies
 
 An elven realm is not governed like a human kingdom. Its defining feature is the
@@ -31,6 +37,14 @@ for in piety and prestige:
     **Aeluran Judiciary (III)**
 
     ![Aeluran Judiciary](../assets/images/ck3/decisions/aeluran_realm_law_3.png)
+
+```mermaid
+graph LR
+    S["Secular Government"] --> I["Aeluran Realm<br/>Authority I"]
+    I --> II["Institutionalized<br/>Authority (II)"]
+    II --> III["Aeluran Judiciary<br/>(III)"]
+    II -.->|"begins"| R(["Aeluran Regency"])
+```
 
 The trade is deliberate: every rung makes the order more useful *and* more powerful
 within your realm. Going secular again is always possible, but it ends the
@@ -101,3 +115,10 @@ prestige.
 There is also a separate **Aeluran Order** government, used by rulers of the Aeluran
 sisterhood itself. It is built around church holdings and can even be played
 landless, reflecting the order's nature as a faith rather than a territory.
+
+## See also
+
+- [The Aeluran Religion & Order](../lore/aeluran-religion-and-order.md) — the lore of the sisterhood you share power with.
+- [Cultures & Religion](cultures-religion.md) — the Tribal Ascension tradition that unlocks Ascended Tribal.
+- [Schemes, Hooks & Contracts](schemes-hooks-contracts.md) — the Aeluran vassal contracts.
+- [EU5 — Government & Laws](../eu5/government-laws.md) — the EU5 mod's take on elven government.

@@ -1,7 +1,15 @@
+---
+tags:
+  - EU5
+  - Expeditions
+---
+
 # Expeditions
 
 Expeditions are how an elven realm rediscovers its lost past — and how it recovers
 the components needed to restore the [Grand Portal](portal-network.md).
+
+![An expedition into the ancient ruins](../assets/images/eu5/events/expedition.png)
 
 ## The first expedition
 
@@ -31,3 +39,9 @@ can turn up gold, artifacts, lost elven traditions, and most importantly the
     The EU5 mod's story content tracks the CK3 version and grows alongside it.
     A formal mission tree is not yet part of the mod — the expedition questline is
     driven through events and [parliament](parliament.md) issues for now.
+
+## See also
+
+- [The Expedition Storyline](../lore/expedition-storyline.md) — the questline told as lore.
+- [The Portal Network](portal-network.md) — what the recovered components rebuild.
+- [CK3 — Expeditions](../ck3/expeditions.md) — expeditions in the CK3 mod.

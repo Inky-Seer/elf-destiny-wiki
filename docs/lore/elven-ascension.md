@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+  - Ascension
+---
+
 # Elven Ascension
 
 Ascension is the process by which elves evolve into higher forms of being through
@@ -44,6 +50,22 @@ new class of being:
 3. **Into the Ainur** — having perfected the Celestial tiers, an elf joins the
    divine Ainur: gods of the elves and the highest servants of the Divine Spark.
 
+```mermaid
+graph TD
+    H["Tier 0 · Human"] --> EB["Tier 1 · Elf Blood"]
+    EB --> E["Tier 2 · Elf"]
+    E --> HE["Tier 3 · High Elf"]
+    HE --> TE["Tier 4 · True Elf"]
+    TE -->|Into the Fae| F["Tier 5 · Fae"]
+    F --> FR["Tier 6 · Fae Radiant"]
+    FR -->|Into the Celestial| C["Tier 7 · Celestial"]
+    C --> SC["Tier 8 · Seraphic Celestial"]
+    SC --> V9["Tier 9 · Vanyar / Eldar"]
+    V9 -->|Into the Ainur| M["Tier 10 · Maia"]
+    M --> VA["Tier 11 · Vala"]
+    VA --> AR["Tier 12 · Aratar"]
+```
+
 ## Godhood is real
 
 The top tiers — Maia, Vala, Aratar — are not a separate, unreachable order of
@@ -88,3 +110,23 @@ that once fed it was cut when the [Grand Portal](portal-network.md) was destroye
 This is why restoring the portal matters so much. Reopening it reconnects Earth to
 the Divine Spark's network and lets the Spark flow freely once more — and only then
 can the highest reaches of Ascension truly open again.
+
+## How it plays in each game
+
+=== "Crusader Kings III"
+
+    Every elf carries a **tier trait**, and climbs the ladder one of two ways: the
+    genetic lottery of careful marriage, or the **Ascension ritual** — a meditation
+    paid for with religious devotion. Each tier raises lifespan and attributes, and
+    from Celestial upward grants permanent immortality.
+
+    [:octicons-arrow-right-24: CK3 — Elf Races & Traits](../ck3/elf-races-traits.md)
+
+=== "Europa Universalis V"
+
+    Elves rise through the tiers by performing the **Ascension ritual**, fuelled by
+    religious influence. Each tier grants stacking **skill bonuses** and a longer
+    lifespan, and the climb is gated by how far the [Grand Portal](portal-network.md)
+    restoration has progressed.
+
+    [:octicons-arrow-right-24: EU5 — Advances, Traits & Units](../eu5/advances-traits-units.md)

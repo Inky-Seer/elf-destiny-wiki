@@ -1,3 +1,8 @@
+---
+tags:
+  - Lore
+---
+
 # Races & Creatures
 
 The world of Elf Destiny holds far more than the six great
@@ -85,3 +90,9 @@ between worlds — a practice deep in the realm of [dark magic](magic.md).
 There is no separate race of giants in this world. The "giants" of ancient legend
 were almost certainly members of [House Daelurin](bloodlines-and-dynasties.md),
 whose bloodline breeds elves of gargantuan size.
+
+## See also
+
+- [Elven Cultures](elven-cultures.md) — the six playable elven peoples.
+- [Dark Elves](dark-elves.md) — the elves who forged twisted creatures for war.
+- [Ancient History & Lost Civilizations](ancient-history-and-lost-civilizations.md) — where these peoples and beasts are found.
