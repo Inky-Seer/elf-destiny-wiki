@@ -1,2 +1,3 @@
 # Wiki build dependencies. mkdocs-material pulls in mkdocs itself.
 mkdocs-material
+mkdocs-git-revision-date-localized-plugin

@@ -1,0 +1,61 @@
+/* Elf Destiny Wiki — theme polish */
+
+:root {
+  --md-primary-fg-color:        #2e7d4f;
+  --md-primary-fg-color--light: #4a9d6c;
+  --md-primary-fg-color--dark:  #1f5638;
+  --md-accent-fg-color:         #57b894;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #3c8a5f;
+  --md-accent-fg-color:         #6fd0a8;
+  --md-hue: 150;
+}
+
+/* Card grids — gentle lift on hover */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > :is(ul, ol) > li,
+.md-typeset .grid > .card {
+  border: .05rem solid var(--md-default-fg-color--lightest);
+  border-radius: .4rem;
+  transition: border-color .2s, box-shadow .2s, transform .2s;
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > :is(ul, ol) > li:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 .2rem .6rem rgba(0, 0, 0, .12);
+  transform: translateY(-.1rem);
+}
+
+.md-typeset .grid.cards .twemoji,
+.md-typeset .grid.cards .lg {
+  color: var(--md-primary-fg-color);
+}
+
+/* Home hero */
+.ed-hero {
+  text-align: center;
+  padding: 1.2rem 0 .4rem;
+}
+
+.ed-hero h1 {
+  margin-bottom: .2rem;
+}
+
+.ed-hero .ed-tagline {
+  color: var(--md-default-fg-color--light);
+  font-size: .9rem;
+}
+
+/* Mermaid diagrams centred with breathing room */
+.md-typeset .mermaid {
+  margin: 1.2rem auto;
+  text-align: center;
+}
+
+/* "See also" footer blocks read as quiet navigation, not body text */
+.md-typeset .ed-seealso {
+  font-size: .85rem;
+}

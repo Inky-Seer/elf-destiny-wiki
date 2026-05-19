@@ -8,14 +8,25 @@ repo_name: GalacticLiaison/elf-destiny-wiki
 
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/wand-magic-sparkles
+    repo: fontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.indexes
     - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.path
+    - navigation.footer
+    - toc.follow
+    - content.tabs.link
+    - content.code.copy
     - search.suggest
     - search.highlight
-    - content.code.copy
+    - search.share
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -32,16 +43,52 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/fyuPcf5HFZ
+      name: Community Discord
+    - icon: fontawesome/brands/steam
+      link: https://steamcommunity.com/sharedfiles/filedetails/?id=3114064450
+      name: Elf Destiny for Crusader Kings III
+    - icon: fontawesome/brands/steam
+      link: https://steamcommunity.com/sharedfiles/filedetails/?id=3681153070
+      name: Elf Destiny for Europa Universalis V
+
 plugins:
   - search
+  - tags
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+      enable_creation_date: false
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - abbr
   - tables
   - toc:
       permalink: true
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
   - Home: index.md
@@ -79,8 +126,12 @@ nav:
       - Pops & Cultures: eu5/pops-cultures.md
       - The Aeluran Religion & Holy Sites: eu5/aeluran-religion.md
       - Government & Laws: eu5/government-laws.md
+      - Game Rules & Setup: eu5/game-rules.md
       - Estates & Privileges: eu5/estates-privileges.md
       - Parliament: eu5/parliament.md
       - Expeditions: eu5/expeditions.md
       - The Portal Network: eu5/portal-network.md
       - Advances, Traits & Units: eu5/advances-traits-units.md
+  - Reference:
+      - Glossary: glossary.md
+      - Tags: tags.md
