@@ -7,14 +7,14 @@ a matching curse.
 
 ## The six great houses
 
-| House | Hallmark | Gift | Curse |
-|---|---|---|---|
-| **Valerith** | Silver hair, ethereal beauty | Breeding for the flesh lets them coil other lords around their fingers — masters of charm and seduction. | A total lack of self-control; they grow addicted to indulgence and fall to the very seductions they practise. |
-| **Serelion** | Piercing purple eyes | Pragmatic cruelty and the dread they inspire give them firm control of their lands. | Their terrified troops are seldom loyal and fight poorly on the battlefield. |
-| **Gwynthorn** | Industrious, obsessively diligent | Relentless caretakers of their realms — tireless stewards of their lands. | Their fixation on duty stresses many Gwynthorns into an early grave. |
-| **Thundarael** | Pale skin, brilliant, manic | Bred as spark-wielders — many of the mightiest Magi come from this house; they move fast and learn at an astounding rate. | Madness runs in the blood; many are driven to insanity by their own power. |
-| **Daelurin** | Gargantuan size, martial might | Formidable warriors of giant stature — the "giants" of old legend were likely Daelurin. | Generations bred for battle left them slow of mind and sluggish of movement. |
-| **Lormelis** | Ocean-blue eyes, sea-bound | Captivating and fierce — unmatched raiders, ambitious to reclaim the lost glory of Atlantis. | Single-minded and inflexible, blind to changing tides, prone to strife within and without. |
+| House | | Hallmark | Gift | Curse |
+|---|---|---|---|---|
+| **Valerith** | ![](../assets/images/ck3/traits/royal_elf_valerith.png) | Silver hair, ethereal beauty | Breeding for the flesh lets them coil other lords around their fingers — masters of charm and seduction. | A total lack of self-control; they grow addicted to indulgence and fall to the very seductions they practise. |
+| **Serelion** | ![](../assets/images/ck3/traits/royal_elf_serelion.png) | Piercing purple eyes | Pragmatic cruelty and the dread they inspire give them firm control of their lands. | Their terrified troops are seldom loyal and fight poorly on the battlefield. |
+| **Gwynthorn** | ![](../assets/images/ck3/traits/royal_elf_gwynthorn.png) | Industrious, obsessively diligent | Relentless caretakers of their realms — tireless stewards of their lands. | Their fixation on duty stresses many Gwynthorns into an early grave. |
+| **Thundarael** | ![](../assets/images/ck3/traits/royal_elf_thundarael.png) | Pale skin, brilliant, manic | Bred as spark-wielders — many of the mightiest Magi come from this house; they move fast and learn at an astounding rate. | Madness runs in the blood; many are driven to insanity by their own power. |
+| **Daelurin** | ![](../assets/images/ck3/traits/royal_elf_daelurin.png) | Gargantuan size, martial might | Formidable warriors of giant stature — the "giants" of old legend were likely Daelurin. | Generations bred for battle left them slow of mind and sluggish of movement. |
+| **Lormelis** | ![](../assets/images/ck3/traits/royal_elf_lormelis.png) | Ocean-blue eyes, sea-bound | Captivating and fierce — unmatched raiders, ambitious to reclaim the lost glory of Atlantis. | Single-minded and inflexible, blind to changing tides, prone to strife within and without. |
 
 Each bloodline maps to one of the six elven [house cultures](cultures-religion.md#elven-cultures)
 of the same name.
