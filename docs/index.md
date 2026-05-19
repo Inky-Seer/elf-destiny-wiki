@@ -8,6 +8,8 @@ tags:
 
 # Elf Destiny Wiki
 
+<p style="text-align: center"><img src="assets/images/thumbnail.gif" width="300" alt="Elf Destiny"></p>
+
 Welcome to the community wiki for **Elf Destiny** — an alternative-history fantasy
 elf mod, available for both **Crusader Kings III** and **Europa Universalis V**.
 
