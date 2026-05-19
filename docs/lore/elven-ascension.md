@@ -21,7 +21,7 @@ Above ordinary humanity, the elves recognise twelve tiers of being:
 | 4 | ![](../assets/images/shared/traits/true_elf.png) | True Elf | A major gateway — body and soul purified. |
 | 5 | ![](../assets/images/shared/traits/fae.png) | Fae | A transformative milestone into higher magical alignment. |
 | 6 | ![](../assets/images/shared/traits/fae_radiant.png) | Fae Radiant | Legendary fae of noble grace and tremendous power. |
-| 7 | ![](../assets/images/shared/traits/celestial_elf.png) | Celestial | A divine quality of being; true immortality begins here. |
+| 7 | ![](../assets/images/shared/traits/celestial.png) | Celestial | A divine quality of being; true immortality begins here. |
 | 8 | ![](../assets/images/shared/traits/seraphic_celestial.png) | Seraphic Celestial | A near-angelic state. |
 | 9 | ![](../assets/images/shared/traits/eldar.png) | Vanyar *(Eldar)* | The pinnacle of common Ascension — the high chosen of the gods. |
 | 10 | ![](../assets/images/shared/traits/maiar.png) | Maia | Demi-god servants of the Valar; the lowest rank of the Ainur. |

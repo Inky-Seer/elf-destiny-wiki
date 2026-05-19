@@ -29,7 +29,7 @@ humans:
 | ![](../assets/images/shared/traits/urf_human.png) | *(Human — tier 0)* | Not an elf; severed from the Divine Spark |
 | ![](../assets/images/shared/traits/elf_blood.png) | **Common Elf** | Elf Blood · Elf · High Elf |
 | ![](../assets/images/shared/traits/true_elf.png) | **Fae** | True Elf · Fae · Fae Radiant |
-| ![](../assets/images/shared/traits/celestial_elf.png) | **Celestial** | Celestial · Seraphic Celestial · Eldar |
+| ![](../assets/images/shared/traits/celestial.png) | **Celestial** | Celestial · Seraphic Celestial · Eldar |
 | ![](../assets/images/shared/traits/maiar.png) | **Ainur** | Maiar · Valar · Aratar |
 
 Each step up increases an elf's stat bonuses and lifespan; the highest tiers are
