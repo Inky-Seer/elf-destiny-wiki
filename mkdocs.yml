@@ -10,6 +10,7 @@ theme:
   name: material
   custom_dir: overrides
   logo: assets/images/shared/traits/elf_blood.png
+  favicon: assets/images/shared/traits/elf_blood.png
   icon:
     repo: fontawesome/brands/github
   features:

@@ -139,7 +139,7 @@ async function postToDiscussion(pat, pageUrl, issueTitle, issueUrl) {
   }
 
   const commentBody =
-    'A suggestion was submitted for this page and filed as a GitHub issue:\n' +
+    'A suggestion was submitted for this page here:\n' +
     '**[' + issueTitle + '](' + issueUrl + ')**';
 
   await ghGraphQL(pat,
