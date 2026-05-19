@@ -64,3 +64,191 @@
 .md-typeset .ed-seealso {
   font-size: .85rem;
 }
+
+/* ── Suggest-edit tooltip ────────────────────────────────────────────────── */
+#sw-tooltip {
+  position: fixed;
+  z-index: 9998;
+  transform: translateX(-50%);
+  pointer-events: auto;
+}
+
+#sw-tooltip button {
+  background: var(--md-primary-fg-color);
+  color: #fff;
+  border: none;
+  border-radius: 1rem;
+  padding: .3rem .8rem;
+  font-size: .75rem;
+  font-family: inherit;
+  cursor: pointer;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .25);
+  transition: background .15s;
+}
+
+#sw-tooltip button:hover {
+  background: var(--md-primary-fg-color--dark);
+}
+
+#sw-tooltip::after {
+  content: '';
+  position: absolute;
+  bottom: -6px;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: var(--md-primary-fg-color);
+  border-bottom: none;
+}
+
+/* ── Suggest-edit modal ──────────────────────────────────────────────────── */
+#sw-modal {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, .55);
+  z-index: 9999;
+  padding: 1rem;
+}
+
+#sw-modal-dialog {
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border-radius: .5rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, .35);
+  padding: 1.5rem;
+  width: 100%;
+  max-width: 540px;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+#sw-modal-dialog h2 {
+  margin: 0 0 1rem;
+  font-size: 1.1rem;
+  color: var(--md-default-fg-color);
+}
+
+#sw-modal-dialog .sw-page-url {
+  font-size: .72rem;
+  color: var(--md-default-fg-color--light);
+  word-break: break-all;
+  margin: 0 0 .75rem;
+}
+
+#sw-modal-dialog label {
+  display: block;
+  font-size: .8rem;
+  font-weight: 600;
+  margin-bottom: .3rem;
+  color: var(--md-default-fg-color--light);
+}
+
+#sw-modal-dialog blockquote.sw-selection {
+  border-left: 3px solid var(--md-primary-fg-color);
+  margin: 0 0 1rem;
+  padding: .4rem .75rem;
+  font-size: .82rem;
+  color: var(--md-default-fg-color--light);
+  background: var(--md-code-bg-color);
+  border-radius: 0 .25rem .25rem 0;
+  white-space: pre-wrap;
+  max-height: 5rem;
+  overflow-y: auto;
+}
+
+#sw-modal-dialog textarea {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .25rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font-family: inherit;
+  font-size: .85rem;
+  padding: .5rem;
+  resize: vertical;
+  margin-bottom: .75rem;
+}
+
+#sw-modal-dialog textarea:focus {
+  outline: 2px solid var(--md-primary-fg-color);
+  outline-offset: 1px;
+  border-color: var(--md-primary-fg-color);
+}
+
+#sw-modal-dialog .sw-error {
+  color: #c62828;
+  font-size: .82rem;
+  margin-bottom: .5rem;
+}
+
+[data-md-color-scheme="slate"] #sw-modal-dialog .sw-error {
+  color: #ef9a9a;
+}
+
+#sw-modal-dialog .sw-actions {
+  display: flex;
+  gap: .5rem;
+  margin-top: .25rem;
+}
+
+#sw-submit {
+  background: var(--md-primary-fg-color);
+  color: #fff;
+  border: none;
+  border-radius: .25rem;
+  padding: .45rem 1.1rem;
+  font-size: .85rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background .15s;
+}
+
+#sw-submit:hover:not(:disabled) {
+  background: var(--md-primary-fg-color--dark);
+}
+
+#sw-submit:disabled {
+  opacity: .6;
+  cursor: default;
+}
+
+#sw-cancel,
+#sw-close-success {
+  background: transparent;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .25rem;
+  padding: .45rem 1rem;
+  font-size: .85rem;
+  font-family: inherit;
+  cursor: pointer;
+  color: var(--md-default-fg-color);
+  transition: background .15s;
+}
+
+#sw-cancel:hover,
+#sw-close-success:hover {
+  background: var(--md-default-fg-color--lightest);
+}
+
+#sw-modal-success {
+  text-align: center;
+  padding: .75rem 0 .25rem;
+}
+
+#sw-modal-success p {
+  font-size: 1rem;
+  margin-bottom: .75rem;
+  color: var(--md-primary-fg-color);
+}
+
+#sw-issue-link {
+  color: var(--md-primary-fg-color);
+  font-size: .9rem;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
