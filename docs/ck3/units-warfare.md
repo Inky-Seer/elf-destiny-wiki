@@ -19,6 +19,35 @@ Most are tied to a tradition discovered on [expeditions](expeditions.md):
 | **Warband Vanguard** | Pikemen | *Ascended Tribal* government | Prestige-recruited pikes that counter every kind of cavalry. |
 | **Direwolf Riders** | Heavy cavalry | *Wolf Lords* dynasty | The elite upgrade to Wolf Riders — fearsomely strong, but recruitable only by a dynasty that has earned the Wolf Lords legacy through the [Tame a Direwolf Pup](decisions-activities.md#personal-decisions) line. |
 
+??? example "Unit illustrations"
+    **Fey Archers**
+
+    ![Fey Archers](../assets/images/ck3/units/fey_archers.png)
+
+    **Ranger High Guard**
+
+    ![Ranger High Guard](../assets/images/ck3/units/elite_bow_knights.png)
+
+    **Wolf Riders**
+
+    ![Wolf Riders](../assets/images/ck3/units/wolf_riders.png)
+
+    **Mosswood Dragoons**
+
+    ![Mosswood Dragoons](../assets/images/ck3/units/elk_archers.png)
+
+    **Warband Ravagers**
+
+    ![Warband Ravagers](../assets/images/ck3/units/warband_ravagers.png)
+
+    **Warband Vanguard**
+
+    ![Warband Vanguard](../assets/images/ck3/units/warband_vanguard.png)
+
+    **Direwolf Riders**
+
+    ![Direwolf Riders](../assets/images/ck3/units/direwolf_riders.png)
+
 ## The Aeluran Magi — Spark Wielders
 
 The mod adds an entirely new troop type, **Spark Wielders** — battle-magi fielded by
@@ -28,8 +57,13 @@ small elite regiments:
 
 - **Aeluran War Magi** — a devastating glass cannon. Their magic counters *every*
   troop type on the field, but they are fragile and few in number.
+
+    ![Aeluran War Magi](../assets/images/ck3/units/aeluran_war_magi.png)
+
 - **Aeluran Magi Artillery** — Magi who specialise in siege warfare, tearing down
   walls while still countering anything that comes at them.
+
+    ![Aeluran Magi Artillery](../assets/images/ck3/units/aeluran_artillery.png)
 
 Because they cost piety to keep in the field, a Magi army is sustained by a ruler's
 spiritual standing rather than their treasury — another reason the
