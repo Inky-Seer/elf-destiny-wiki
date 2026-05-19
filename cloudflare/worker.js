@@ -9,6 +9,8 @@ const ALLOWED_ORIGIN = 'https://galacticliaison.github.io';
 const REPO_OWNER     = 'GalacticLiaison';
 const REPO_NAME      = 'elf-destiny-wiki';
 const ISSUE_LABEL    = 'wiki-suggestion';
+const REPO_NODE_ID   = 'R_kgDOShPfEA';           // GitHub GraphQL node ID for this repo
+const DISC_CAT_ID    = 'DIC_kwDOShPfEM4C9Y3q';   // "Wiki Suggestions" Giscus discussion category
 
 const CORS_HEADERS = {
   'Access-Control-Allow-Origin':  ALLOWED_ORIGIN,
@@ -113,7 +115,28 @@ async function postToDiscussion(pat, pageUrl, issueTitle, issueUrl) {
   );
 
   const nodes = data?.data?.search?.nodes;
-  if (!nodes || nodes.length === 0) return; // no discussion yet — skip
+  let discussionId;
+
+  if (nodes && nodes.length > 0) {
+    discussionId = nodes[0].id;
+  } else {
+    // No discussion exists yet for this page — create one so the comment has somewhere to land
+    const created = await ghGraphQL(pat,
+      `mutation CreateDiscussion($repoId: ID!, $catId: ID!, $title: String!, $body: String!) {
+         createDiscussion(input: { repositoryId: $repoId, categoryId: $catId, title: $title, body: $body }) {
+           discussion { id }
+         }
+       }`,
+      {
+        repoId: REPO_NODE_ID,
+        catId:  DISC_CAT_ID,
+        title:  pathname,
+        body:   'Suggestions and discussion for this wiki page.',
+      }
+    );
+    discussionId = created?.data?.createDiscussion?.discussion?.id;
+    if (!discussionId) return; // creation failed — give up silently
+  }
 
   const commentBody =
     'A suggestion was submitted for this page and filed as a GitHub issue:\n' +
@@ -125,7 +148,7 @@ async function postToDiscussion(pat, pageUrl, issueTitle, issueUrl) {
          comment { url }
        }
      }`,
-    { discussionId: nodes[0].id, body: commentBody }
+    { discussionId, body: commentBody }
   );
 }
 
