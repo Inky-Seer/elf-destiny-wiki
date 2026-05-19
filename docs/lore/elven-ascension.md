@@ -12,21 +12,21 @@ the central thread of elven society and one of the great themes of Elf Destiny.
 
 Above ordinary humanity, the elves recognise twelve tiers of being:
 
-| Tier | Name | Meaning |
-|---|---|---|
-| 0 | Human | The bottom rung — severed from the Spark, unable to naturally Ascend. |
-| 1 | Elf Blood | A half-elf hybrid, still eligible for Ascension. |
-| 2 | Elf | The base elf tier; where most newly transformed characters begin. |
-| 3 | High Elf | The first true step of Ascension. |
-| 4 | True Elf | A major gateway — body and soul purified. |
-| 5 | Fae | A transformative milestone into higher magical alignment. |
-| 6 | Fae Radiant | Legendary fae of noble grace and tremendous power. |
-| 7 | Celestial | A divine quality of being; true immortality begins here. |
-| 8 | Seraphic Celestial | A near-angelic state. |
-| 9 | Vanyar *(Eldar)* | The pinnacle of common Ascension — the high chosen of the gods. |
-| 10 | Maia | Demi-god servants of the Valar; the lowest rank of the Ainur. |
-| 11 | Vala | A mighty god of the Divine Spark. |
-| 12 | Aratar | The most powerful few among the Valar. |
+| Tier | | Name | Meaning |
+|---|---|---|---|
+| 0 | | Human | The bottom rung — severed from the Spark, unable to naturally Ascend. |
+| 1 | ![](../assets/images/shared/traits/elf_blood.png) | Elf Blood | A half-elf hybrid, still eligible for Ascension. |
+| 2 | ![](../assets/images/shared/traits/elf.png) | Elf | The base elf tier; where most newly transformed characters begin. |
+| 3 | ![](../assets/images/shared/traits/high_elf.png) | High Elf | The first true step of Ascension. |
+| 4 | ![](../assets/images/shared/traits/true_elf.png) | True Elf | A major gateway — body and soul purified. |
+| 5 | ![](../assets/images/shared/traits/fae.png) | Fae | A transformative milestone into higher magical alignment. |
+| 6 | ![](../assets/images/shared/traits/fae_radiant.png) | Fae Radiant | Legendary fae of noble grace and tremendous power. |
+| 7 | ![](../assets/images/shared/traits/celestial_elf.png) | Celestial | A divine quality of being; true immortality begins here. |
+| 8 | ![](../assets/images/shared/traits/seraphic_celestial.png) | Seraphic Celestial | A near-angelic state. |
+| 9 | ![](../assets/images/shared/traits/eldar.png) | Vanyar *(Eldar)* | The pinnacle of common Ascension — the high chosen of the gods. |
+| 10 | ![](../assets/images/shared/traits/maiar.png) | Maia | Demi-god servants of the Valar; the lowest rank of the Ainur. |
+| 11 | ![](../assets/images/shared/traits/valar.png) | Vala | A mighty god of the Divine Spark. |
+| 12 | ![](../assets/images/shared/traits/aratar.png) | Aratar | The most powerful few among the Valar. |
 
 !!! note "Vanyar or Eldar?"
     The ninth tier is called **Vanyar** in the Europa Universalis V mod and

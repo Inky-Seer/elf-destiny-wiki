@@ -17,6 +17,8 @@ it, and a child of two bearers inherits it for certain. (See
 
 ### House Valerith
 
+![House Valerith](../assets/images/ck3/traits/royal_elf_valerith.png)
+
 Silver-haired and ethereally beautiful, the Valerith bred for the flesh until they
 could *"coil other lords around their elegant fingers."* But their perfection turns
 inward: they suffer a total lack of self-control, growing addicted to indulgence and
@@ -25,6 +27,8 @@ of the houses — *Pure-blooded* heirs run thick in the Valerith line.
 
 ### House Daelurin
 
+![House Daelurin](../assets/images/ck3/traits/royal_elf_daelurin.png)
+
 A house of gargantuan size and martial might. The Daelurin bred for war and
 conquest across countless generations, producing lords of such stature that the
 **"giants" of ancient legend were almost certainly Daelurin** — there is no separate
@@ -32,12 +36,16 @@ race of giants. The cost of that specialisation is a duller mind and a slower st
 
 ### House Serelion
 
+![House Serelion](../assets/images/ck3/traits/royal_elf_serelion.png)
+
 Marked by piercing purple eyes, the Serelion rule through pragmatic cruelty and the
 dread they inspire. That dread gives them a fierce grip on their lands — but their
 terrified soldiers are seldom truly loyal, and fight poorly when the swords are
 drawn. Old lore names the Serelion the descendants of elven Roman emperors.
 
 ### House Thundarael
+
+![House Thundarael](../assets/images/ck3/traits/royal_elf_thundarael.png)
 
 Pale-skinned, brilliant, and manic, the Thundarael bred themselves into spark-wielders.
 Many of the mightiest Magi and Empowered in all of history came from this house;
@@ -47,11 +55,15 @@ own gift.
 
 ### House Gwynthorn
 
+![House Gwynthorn](../assets/images/ck3/traits/royal_elf_gwynthorn.png)
+
 A house of relentless industry and obsessive diligence — tireless caretakers of
 their lands and unmatched administrators. Their curse is simpler and sadder than
 most: their fixation on duty stresses many Gwynthorns into an early grave.
 
 ### House Lormelis
+
+![House Lormelis](../assets/images/ck3/traits/royal_elf_lormelis.png)
 
 Blue-eyed and sea-bound, the Lormelis are revered as unmatched raiders, the
 *"descendants of the legendary sea raiders of Atlantis"* — and their driving ambition
